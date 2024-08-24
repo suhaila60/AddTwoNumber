@@ -1,0 +1,19 @@
+{
+  "name": "@suhailac/addtwonumber",
+  "version": "1.0.0",
+  "description": "npn package to find sum of two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhaila60/AddTwoNumber.git"
+  },
+  "author": "suhaiala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhaila60/AddTwoNumber/issues"
+  },
+  "homepage": "https://github.com/suhaila60/AddTwoNumber#readme"
+}
